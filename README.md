@@ -158,7 +158,10 @@ This project demonstrates:
 
 ## 👩‍💻 Author
 
-Developed as part of learning **Generative AI Engineering with Spring Boot**.
+**Bhuvana**
+
+Aspiring Generative AI Engineer  
+Spring Boot | LangChain4j | Java
 
 ---
 
